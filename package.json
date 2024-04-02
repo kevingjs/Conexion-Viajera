@@ -1,7 +1,7 @@
 {
 	"name": "conexionviajera",
 	"version": "1.0.0",
-	"description": "Empresa de Publicidad Turística en el Municipio Juan German Roscio en San Juan de los Morros",
+	"description": "Empresa de Publicidad Turística en el Municipio Juan Germán Roscio en San Juan de los Morros.",
 	"main": "index.js",
 	"scripts": {
 		"start": "node api/index.js",
