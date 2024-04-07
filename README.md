@@ -21,6 +21,7 @@
 
 <div align="center">
 
+![vite-badge]
 ![mongodb-badge]
 ![express-badge]
 ![react-badge]
@@ -47,6 +48,7 @@
 
 ## 🛠️ Stack
 
+- [![Vite.js][vite-badge]][vite-url] - Next Generation Frontend Tooling.
 - [![MongoDB][mongodb-badge]][mongodb-url] - An open source NoSQL database management program.
 - [![Express][express-badge]][express-url] - Fast, unopinionated, minimalist web framework for Node.js.
 - [![React][react-badge]][react-url] - The library for web and native user interfaces.
